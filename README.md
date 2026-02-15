@@ -60,4 +60,5 @@ Projek ini sudah siap dideploy ke **Vercel** atau **Netlify**. Cukup hubungkan r
 
 ### Credit
 Dibuat dengan 🔥 untuk para Pemburu WR.
+
 **Ivan Edward / github.com/ragepanz**
